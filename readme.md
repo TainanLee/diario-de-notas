@@ -16,3 +16,5 @@ Este projeto consiste em um programa simples em Python que permite a um professo
 
 ## Exemplo de uso
 # diario-de-notas
+![Captura de tela 2025-05-20 200802](https://github.com/user-attachments/assets/a08df171-3490-41c5-9bd3-8e357c746c26)
+
